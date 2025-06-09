@@ -4,6 +4,6 @@ References to Stephen King's Lawnmower Man
 1.Before: ![Alt text](start.png)
 1.After: ![Alt text](complete.png)
 ### Script Instructions ###
-1. On page load, execute a setup script to perform the following: 
+On page load, execute a setup script to perform the following: 
 1. Create two buttons inside the div with buttons id, labeled OK and Cancel (like the image "complete.png"). 
 1. EC: If the user clicks "Cancel", clear the user name and password inputs.
