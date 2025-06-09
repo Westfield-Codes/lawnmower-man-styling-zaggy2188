@@ -1,0 +1,45 @@
+body {
+}
+.box{
+  width:500px;
+  height:150px;
+  margin:0 auto;
+}
+
+.title button{
+  width:15px;
+  height:15px;
+}
+
+.body {
+}
+
+#leftside {
+  width:375px;
+}
+
+#dialogs {
+  width:240px;
+}
+
+.body p {
+}
+
+
+#buttons {
+  height:50px;
+  width:100px;
+}
+
+#buttons button {
+  width:80px;
+
+.body button{
+}
+
+label {
+}
+
+input {
+  width:150px;
+}
