@@ -1,7 +1,7 @@
 # win95password
 References to Stephen King's Lawnmower Man
 ### Style Instructions ###
-1.Before: ![Alt text](start.png)
+1.Before: ![Alt text](nobuttons.png)
 1.After: ![Alt text](complete.png)
 ### Script Instructions ###
 On page load, execute a setup script to perform the following: 
