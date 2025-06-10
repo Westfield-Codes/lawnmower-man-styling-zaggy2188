@@ -1,17 +1,29 @@
 body {
+  background-color: #008080;
 }
 .box{
-  width:500px;
-  height:150px;
+  width:700px;
+  height:200px;
   margin:0 auto;
+  border: 2px solid white;
+  background-color: #C0C0C0;
+  border-bottom: 2px solid #2C2C2C;
+  border-right: 2px solid #2C2C2C;
 }
 
 .title button{
   width:15px;
   height:15px;
+  background-color: #C0C0C0;
+}
+
+.title{
+  background-color: #000080;
+  color: white;
 }
 
 .body {
+  
 }
 
 #leftside {
@@ -20,9 +32,14 @@ body {
 
 #dialogs {
   width:240px;
+  position: relative;
+  left: 200px;
 }
 
 .body p {
+  position: relative;
+  left: 150px;
+  bottom: 30px;
 }
 
 
@@ -33,13 +50,21 @@ body {
 
 #buttons button {
   width:80px;
+}
 
 .body button{
 }
 
 label {
+  position: relative;
+  right: 50px;
 }
 
 input {
   width:150px;
 }
+
+img{
+  margin-top: 10%;
+}
+
