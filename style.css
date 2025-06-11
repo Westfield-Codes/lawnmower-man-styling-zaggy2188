@@ -2,7 +2,7 @@ body {
   background-color: #008080;
 }
 .box{
-  width:700px;
+  width:690px;
   height:200px;
   margin:0 auto;
   border: 2px solid white;
@@ -15,11 +15,28 @@ body {
   width:15px;
   height:15px;
   background-color: #C0C0C0;
+  position:relative;
+  left:650px;
+  bottom: 51px;
+  border: 2px solid white;
+  border-right: 2px solid #2C2C2C;
+  border-bottom: 2px solid #2C2C2C;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 750;
+  padding:0;
+  text-indent: -1px;
+  line-height: 0;
 }
 
-.title{
+.title p{
   background-color: #000080;
   color: white;
+  border: 1px solid #C0C0C0;
+  border-width: -2px;
+  position: relative;
+  bottom: 15px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 750;
 }
 
 .body {
@@ -28,13 +45,18 @@ body {
 
 #leftside {
   width:375px;
+  position: relative;
+  bottom:20px;
 }
 
 #dialogs {
   width:240px;
   position: relative;
   left: 200px;
+  bottom:10px;
 }
+
+
 
 .body p {
   position: relative;
