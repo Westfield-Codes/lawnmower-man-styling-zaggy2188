@@ -2,8 +2,10 @@ body {
   background-color: #008080;
 }
 .box{
-  width:690px;
-  height:200px;
+  position: relative;
+  top:250px;
+  width:680px;
+  height:185px;
   margin:0 auto;
   border: 2px solid white;
   background-color: #C0C0C0;
@@ -17,7 +19,7 @@ body {
   height:15px;
   background-color: #C0C0C0;
   position:relative;
-  left:650px;
+  left:640px;
   bottom: 51px;
   border: 2px solid white;
   border-right: 2px solid #2C2C2C;
@@ -98,12 +100,8 @@ input {
   width:150px;
 }
 
-#end{
-  margin-top: 10%;
-}
-
 #key{
-  position: relative;
-  bottom: 720px;
-  left:650px;
+  position: absolute;
+  top:302px;
+  left:660px;
 }
