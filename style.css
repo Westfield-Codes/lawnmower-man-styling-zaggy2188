@@ -86,7 +86,13 @@ body {
 
 #buttons button {
   width:80px;
+  position:relative;
+  bottom:165px;
+  left:550px;
+  margin-bottom: 10px;
 }
+
+
 
 .body button{
 }
@@ -105,3 +111,4 @@ input {
   top:302px;
   left:660px;
 }
+
